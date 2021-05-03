@@ -50,4 +50,5 @@
     <project path="packages/apps/LineageParts" name="AltairROM/android_packages_apps_LineageParts" remote="altair" />
     <project path="packages/apps/Settings" name="AltairROM/android_packages_apps_Settings" remote="altair" />
     <project path="vendor/lineage" name="AltairROM/android_vendor_altair" remote="altair" />
+    <project path="vendor/support" name="AltairROM/android_vendor_support" remote="altair" />
 </manifest>
