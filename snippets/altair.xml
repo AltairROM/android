@@ -3,7 +3,7 @@
 
     <remote  name="altair"
              fetch="https://github.com"
-             revision="refs/heads/v10"
+             revision="refs/heads/10"
              sync-c="true"
              sync-j="4" />
 
