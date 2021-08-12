@@ -28,6 +28,7 @@
     <remove-project name="LineageOS/android_lineage-sdk" />
     <remove-project name="LineageOS/android_packages_apps_LineageParts" />
     <remove-project name="LineageOS/android_packages_apps_Settings" />
+    <remove-project name="LineageOS/android_packages_apps_Trebuchet" />
     <remove-project name="LineageOS/android_packages_apps_Updater" />
     <remove-project name="LineageOS/android_vendor_lineage" />
 
@@ -52,6 +53,7 @@
     <project path="packages/apps/AltairSettings" name="AltairROM/android_packages_apps_AltairSettings" remote="altair" />
     <project path="packages/apps/LineageParts" name="AltairROM/android_packages_apps_LineageParts" remote="altair" />
     <project path="packages/apps/Settings" name="AltairROM/android_packages_apps_Settings" remote="altair" />
+    <project path="packages/apps/Trebuchet" name="AltairROM/android_packages_apps_Trebuchet" remote="altair" />
     <project path="vendor/lineage" name="AltairROM/android_vendor_altair" remote="altair" />
     <project path="vendor/support" name="AltairROM/android_vendor_support" remote="altair" />
 </manifest>
