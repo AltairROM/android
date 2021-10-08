@@ -62,6 +62,7 @@
     <project path="packages/apps/ThemePicker" name="AltairROM/android_packages_apps_ThemePicker" remote="altair" />
     <project path="packages/inputmethods/LatinIME" name="AltairROM/android_packages_inputmethods_LatinIME" remote="altair" />
     <project path="packages/overlays/Lineage" name="AltairROM/android_packages_overlays_Lineage" remote="altair" />
+    <project path="vendor/addons" name="AltairROM/android_vendor_addons" remote="altair" />
     <project path="vendor/lineage" name="AltairROM/android_vendor_altair" remote="altair" />
     <project path="vendor/support" name="AltairROM/android_vendor_support" remote="altair" />
 </manifest>
