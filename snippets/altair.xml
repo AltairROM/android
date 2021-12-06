@@ -57,7 +57,7 @@
     <project path="packages/apps/Launcher3" name="AltairROM/android_packages_apps_Launcher3" remote="altair" />
     <project path="packages/apps/LineageParts" name="AltairROM/android_packages_apps_LineageParts" remote="altair" />
     <project path="packages/apps/Settings" name="AltairROM/android_packages_apps_Settings" remote="altair" />
-    <project path="packages/apps/SetupWizard" name="AltairROM/android_packages_apps_MinimalSetupWizard" remote="altair" />
+    <project path="packages/apps/MinimalSetupWizard" name="AltairROM/android_packages_apps_MinimalSetupWizard" remote="altair" />
     <project path="packages/inputmethods/LatinIME" name="AltairROM/android_packages_inputmethods_LatinIME" remote="altair" />
     <project path="packages/overlays/Lineage" name="AltairROM/android_packages_overlays_Lineage" remote="altair" />
     <project path="vendor/addons" name="AltairROM/android_vendor_addons" remote="altair" />
