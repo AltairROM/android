@@ -26,16 +26,28 @@
     <remove-project name="LineageOS/android_build_soong" />
     <remove-project name="LineageOS/android_frameworks_base" />
     <remove-project name="LineageOS/android_lineage-sdk" />
+    <remove-project name="LineageOS/android_packages_apps_AudioFX" />
     <remove-project name="LineageOS/android_packages_apps_Contacts" />
+    <remove-project name="LineageOS/android_packages_apps_DeskClock" />
     <remove-project name="LineageOS/android_packages_apps_Dialer" />
+    <remove-project name="LineageOS/android_packages_apps_DocumentsUI" />
+    <remove-project name="LineageOS/android_packages_apps_Eleven" />
+    <remove-project name="LineageOS/android_packages_apps_Etar" />
+    <remove-project name="LineageOS/android_packages_apps_ExactCalculator" />
+    <remove-project name="LineageOS/android_packages_apps_Gallery2" />
+    <remove-project name="LineageOS/android_packages_apps_Jelly" />
     <remove-project name="LineageOS/android_packages_apps_LineageParts" />
     <remove-project name="LineageOS/android_packages_apps_Messaging" />
+    <remove-project name="LineageOS/android_packages_apps_Recorder" />
     <remove-project name="LineageOS/android_packages_apps_Settings" />
+    <remove-project name="LineageOS/android_packages_apps_SettingsIntelligence" />
     <remove-project name="LineageOS/android_packages_apps_SetupWizard" />
+    <remove-project name="LineageOS/android_packages_apps_Snap" />
     <remove-project name="LineageOS/android_packages_apps_Trebuchet" />
     <remove-project name="LineageOS/android_packages_apps_Updater" />
     <remove-project name="LineageOS/android_packages_inputmethods_LatinIME" />
     <remove-project name="LineageOS/android_packages_overlays_Lineage" />
+    <remove-project name="LineageOS/android_packages_resources_devicesettings" />
     <remove-project name="LineageOS/android_vendor_lineage" />
 
     <!-- Add Altair ROM repos -->
@@ -57,15 +69,27 @@
     <project path="frameworks/base" name="AltairROM/android_frameworks_base" remote="altair" />
     <project path="lineage-sdk" name="AltairROM/android_lineage-sdk" remote="altair" />
     <project path="packages/apps/AltairSettings" name="AltairROM/android_packages_apps_AltairSettings" remote="altair" />
+    <project path="packages/apps/AudioFX" name="AltairROM/android_packages_apps_AudioFX" remote="altair" />
     <project path="packages/apps/Contacts" name="AltairROM/android_packages_apps_Contacts" remote="altair" />
+    <project path="packages/apps/DeskClock" name="AltairROM/android_packages_apps_DeskClock" remote="altair" />
     <project path="packages/apps/Dialer" name="AltairROM/android_packages_apps_Dialer" remote="altair" />
+    <project path="packages/apps/DocumentsUI" name="AltairROM/android_packages_apps_DocumentsUI" remote="altair" />
+    <project path="packages/apps/Eleven" name="AltairROM/android_packages_apps_Eleven" remote="altair" />
+    <project path="packages/apps/Etar" name="AltairROM/android_packages_apps_Etar" remote="altair" />
+    <project path="packages/apps/ExactCalculator" name="AltairROM/android_packages_apps_ExactCalculator" remote="altair" />
+    <project path="packages/apps/Gallery2" name="AltairROM/android_packages_apps_Gallery2" remote="altair" />
+    <project path="packages/apps/Jelly" name="AltairROM/android_packages_apps_Jelly" remote="altair" />
     <project path="packages/apps/Launcher3" name="AltairROM/android_packages_apps_Launcher3" remote="altair" />
     <project path="packages/apps/LineageParts" name="AltairROM/android_packages_apps_LineageParts" remote="altair" />
     <project path="packages/apps/Messaging" name="AltairROM/android_packages_apps_Messaging" remote="altair" />
-    <project path="packages/apps/Settings" name="AltairROM/android_packages_apps_Settings" remote="altair" />
     <project path="packages/apps/MinimalSetupWizard" name="AltairROM/android_packages_apps_MinimalSetupWizard" remote="altair" />
+    <project path="packages/apps/Recorder" name="AltairROM/android_packages_apps_Recorder" remote="altair" />
+    <project path="packages/apps/Settings" name="AltairROM/android_packages_apps_Settings" remote="altair" />
+    <project path="packages/apps/SettingsIntelligence" name="AltairROM/android_packages_apps_SettingsIntelligence" remote="altair" />
+    <project path="packages/apps/Snap" name="AltairROM/android_packages_apps_Snap" remote="altair" />
     <project path="packages/inputmethods/LatinIME" name="AltairROM/android_packages_inputmethods_LatinIME" remote="altair" />
     <project path="packages/overlays/Lineage" name="AltairROM/android_packages_overlays_Lineage" remote="altair" />
+    <project path="packages/resources/devicesettings" name="AltairROM/android_packages_resources_devicesettings" remote="altair" />
     <project path="vendor/addons" name="AltairROM/android_vendor_addons" remote="altair" />
     <project path="vendor/lineage" name="AltairROM/android_vendor_altair" remote="altair" />
     <project path="vendor/support" name="AltairROM/android_vendor_support" remote="altair" />
