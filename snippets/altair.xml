@@ -21,6 +21,7 @@
 
     <!-- Get rid of LineageOS repos -->
     <remove-project name="LineageOS/android" />
+    <remove-project name="LineageOS/android_bootable_recovery" />
     <remove-project name="LineageOS/android_build" />
     <remove-project name="LineageOS/android_build_soong" />
     <remove-project name="LineageOS/android_frameworks_base" />
@@ -45,6 +46,7 @@
         <linkfile src="root.bp" dest="Android.bp" />
         <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
     </project>
+    <project path="bootable/recovery" name="AltairROM/android_bootable_recovery" remote="altair" />
     <project path="frameworks/base" name="AltairROM/android_frameworks_base" remote="altair" />
     <project path="lineage-sdk" name="AltairROM/android_lineage-sdk" remote="altair" />
     <project path="packages/apps/LineageParts" name="AltairROM/android_packages_apps_LineageParts" remote="altair" />
