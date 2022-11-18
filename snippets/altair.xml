@@ -48,6 +48,8 @@
         <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
     </project>
     <project path="bootable/recovery" name="AltairROM/android_bootable_recovery" remote="altair" />
+    <project path="external/colorkt" name="AltairROM/android_external_colorkt" remote="altair" />
+    <project path="external/themelib" name="AltairROM/android_external_themelib" remote="altair" />
     <project path="frameworks/base" name="AltairROM/android_frameworks_base" remote="altair" />
     <project path="lineage-sdk" name="AltairROM/android_lineage-sdk" remote="altair" />
     <project path="packages/apps/LineageParts" name="AltairROM/android_packages_apps_LineageParts" remote="altair" />
