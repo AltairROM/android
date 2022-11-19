@@ -63,4 +63,5 @@
     <project path="packages/overlays/Altair" name="AltairROM/android_packages_overlays_Altair" remote="altair" />
     <project path="packages/overlays/Lineage" name="AltairROM/android_packages_overlays_Lineage" remote="altair" />
     <project path="vendor/lineage" name="AltairROM/android_vendor_altair" remote="altair" />
+    <project path="vendor/support" name="AltairROM/android_vendor_support" remote="altair" />
 </manifest>
