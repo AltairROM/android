@@ -72,4 +72,5 @@
     <project path="system/core" name="AltairROM/android_system_core" remote="altair" />
     <project path="system/sepolicy" name="AltairROM/android_system_sepolicy" remote="altair" />
     <project path="vendor/lineage" name="AltairROM/android_vendor_altair" remote="altair" />
+    <project path="vendor/support" name="AltairROM/android_vendor_support" remote="altair" />
 </manifest>
