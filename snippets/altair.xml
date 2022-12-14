@@ -19,6 +19,9 @@
              sync-c="true"
              sync-j="4" />
 
+    <!-- Get rid of AOSP repos -->
+    <remove-project name="platform/frameworks/libs/systemui" />
+
     <!-- Get rid of LineageOS repos -->
     <remove-project name="LineageOS/android" />
     <remove-project name="LineageOS/android_bootable_recovery" />
@@ -63,6 +66,7 @@
     <project path="external/themelib" name="AltairROM/android_external_themelib" remote="altair" />
     <project path="frameworks/av" name="AltairROM/android_frameworks_av" remote="altair" />
     <project path="frameworks/base" name="AltairROM/android_frameworks_base" remote="altair" />
+    <project path="frameworks/libs/systemui" name="AltairROM/android_frameworks_libs_systemui" remote="altair" />
     <project path="lineage-sdk" name="AltairROM/android_lineage-sdk" remote="altair" />
     <project path="packages/apps/AltairSettings" name="AltairROM/android_packages_apps_AltairSettings" remote="altair" />
     <project path="packages/apps/Contacts" name="AltairROM/android_packages_apps_Contacts" remote="altair" />
