@@ -26,6 +26,7 @@
     <remove-project name="LineageOS/android_build_soong" />
     <remove-project name="LineageOS/android_frameworks_av" />
     <remove-project name="LineageOS/android_frameworks_base" />
+    <remove-project name="LineageOS/android_frameworks_libs_systemui" />
     <remove-project name="LineageOS/android_lineage-sdk" />
     <remove-project name="LineageOS/android_packages_apps_Contacts" />
     <remove-project name="LineageOS/android_packages_apps_DeskClock" />
@@ -63,6 +64,7 @@
     <project path="external/themelib" name="AltairROM/android_external_themelib" remote="altair" />
     <project path="frameworks/av" name="AltairROM/android_frameworks_av" remote="altair" />
     <project path="frameworks/base" name="AltairROM/android_frameworks_base" remote="altair" />
+    <project path="frameworks/libs/systemui" name="AltairROM/android_frameworks_libs_systemui" remote="altair" />
     <project path="lineage-sdk" name="AltairROM/android_lineage-sdk" remote="altair" />
     <project path="packages/apps/AltairSettings" name="AltairROM/android_packages_apps_AltairSettings" remote="altair" />
     <project path="packages/apps/Contacts" name="AltairROM/android_packages_apps_Contacts" remote="altair" />
