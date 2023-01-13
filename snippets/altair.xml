@@ -24,6 +24,7 @@
     <remove-project name="LineageOS/android_bootable_recovery" />
     <remove-project name="LineageOS/android_build" />
     <remove-project name="LineageOS/android_build_soong" />
+    <remove-project name="LineageOS/android_device_lineage_sepolicy" />
     <remove-project name="LineageOS/android_frameworks_av" />
     <remove-project name="LineageOS/android_frameworks_base" />
     <remove-project name="LineageOS/android_frameworks_libs_systemui" />
@@ -60,6 +61,7 @@
         <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
     </project>
     <project path="bootable/recovery" name="AltairROM/android_bootable_recovery" remote="altair" />
+    <project path="device/lineage/sepolicy" name="AltairROM/android_device_altair_sepolicy" remote="altair" />
     <project path="external/colorkt" name="AltairROM/android_external_colorkt" remote="altair" />
     <project path="external/themelib" name="AltairROM/android_external_themelib" remote="altair" />
     <project path="frameworks/av" name="AltairROM/android_frameworks_av" remote="altair" />
