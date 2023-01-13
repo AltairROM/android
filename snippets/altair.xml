@@ -77,6 +77,7 @@
     <project path="packages/apps/LineageParts" name="AltairROM/android_packages_apps_LineageParts" remote="altair" />
     <project path="packages/apps/Messaging" name="AltairROM/android_packages_apps_Messaging" remote="altair" />
     <project path="packages/apps/MinimalSetupWizard" name="AltairROM/android_packages_apps_MinimalSetupWizard" remote="altair" />
+    <project path="packages/apps/ParallelSpace" name="AltairROM/android_packages_apps_ParallelSpace" remote="altair" />
     <project path="packages/apps/Settings" name="AltairROM/android_packages_apps_Settings" remote="altair" />
     <project path="packages/apps/ThemePicker" name="AltairROM/android_packages_apps_ThemePicker" remote="altair" />
     <project path="packages/inputmethods/LatinIME" name="AltairROM/android_packages_inputmethods_LatinIME" remote="altair" />
