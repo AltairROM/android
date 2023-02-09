@@ -19,9 +19,6 @@
              sync-c="true"
              sync-j="4" />
 
-    <!-- Get rid of AOSP repos -->
-    <remove-project name="platform/frameworks/libs/systemui" />
-
     <!-- Get rid of LineageOS repos -->
     <remove-project name="LineageOS/android" />
     <remove-project name="LineageOS/android_bootable_recovery" />
@@ -30,6 +27,7 @@
     <remove-project name="LineageOS/android_device_lineage_sepolicy" />
     <remove-project name="LineageOS/android_frameworks_av" />
     <remove-project name="LineageOS/android_frameworks_base" />
+    <remove-project name="LineageOS/android_frameworks_libs_systemui" />
     <remove-project name="LineageOS/android_lineage-sdk" />
     <remove-project name="LineageOS/android_packages_apps_Contacts" />
     <remove-project name="LineageOS/android_packages_apps_DeskClock" />
