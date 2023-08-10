@@ -34,7 +34,6 @@
     <remove-project name="LineageOS/android_packages_apps_Dialer" />
     <remove-project name="LineageOS/android_packages_apps_ExactCalculator" />
     <remove-project name="LineageOS/android_packages_apps_Gallery2" />
-    <remove-project name="LineageOS/android_packages_apps_Jelly" />
     <remove-project name="LineageOS/android_packages_apps_LineageParts" />
     <remove-project name="LineageOS/android_packages_apps_Messaging" />
     <remove-project name="LineageOS/android_packages_apps_Nfc" />
@@ -77,7 +76,6 @@
     <project path="packages/apps/Dialer" name="AltairROM/android_packages_apps_Dialer" remote="altair" />
     <project path="packages/apps/ExactCalculator" name="AltairROM/android_packages_apps_ExactCalculator" remote="altair" />
     <project path="packages/apps/Gallery2" name="AltairROM/android_packages_apps_Gallery2" remote="altair" />
-    <project path="packages/apps/Jelly" name="AltairROM/android_packages_apps_Jelly" remote="altair" />
     <project path="packages/apps/Launcher3" name="AltairROM/android_packages_apps_Launcher3" remote="altair" />
     <project path="packages/apps/LineageParts" name="AltairROM/android_packages_apps_LineageParts" remote="altair" />
     <project path="packages/apps/Messaging" name="AltairROM/android_packages_apps_Messaging" remote="altair" />
