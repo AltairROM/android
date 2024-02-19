@@ -30,6 +30,7 @@
     <remove-project name="LineageOS/android_packages_apps_Dialer" />
     <remove-project name="LineageOS/android_packages_apps_LineageParts" />
     <remove-project name="LineageOS/android_packages_apps_Messaging" />
+    <remove-project name="LineageOS/android_packages_apps_Nfc" />
     <remove-project name="LineageOS/android_packages_apps_Settings" />
     <remove-project name="LineageOS/android_packages_apps_SetupWizard" />
     <remove-project name="LineageOS/android_packages_apps_Updater" />
@@ -59,6 +60,7 @@
     <project path="packages/apps/Dialer" name="AltairROM/android_packages_apps_Dialer" remote="altair" />
     <project path="packages/apps/LineageParts" name="AltairROM/android_packages_apps_LineageParts" remote="altair" />
     <project path="packages/apps/Messaging" name="AltairROM/android_packages_apps_Messaging" remote="altair" />
+    <project path="packages/apps/Nfc" name="AltairROM/android_packages_apps_Nfc" remote="altair" />
     <project path="packages/apps/MinimalSetupWizard" name="AltairROM/android_packages_apps_MinimalSetupWizard" remote="altair" />
     <project path="packages/apps/Settings" name="AltairROM/android_packages_apps_Settings" remote="altair" />
     <project path="packages/inputmethods/LatinIME" name="AltairROM/android_packages_inputmethods_LatinIME" remote="altair" />
