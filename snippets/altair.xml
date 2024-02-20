@@ -24,6 +24,7 @@
     <remove-project name="LineageOS/android_bootable_recovery" />
     <remove-project name="LineageOS/android_build" />
     <remove-project name="LineageOS/android_build_soong" />
+    <remove-project name="LineageOS/android_frameworks_av" />
     <remove-project name="LineageOS/android_frameworks_base" />
     <remove-project name="LineageOS/android_lineage-sdk" />
     <remove-project name="LineageOS/android_packages_apps_Contacts" />
@@ -55,6 +56,7 @@
         <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
     </project>
     <project path="bootable/recovery" name="AltairROM/android_bootable_recovery" remote="altair" />
+    <project path="frameworks/av" name="AltairROM/android_frameworks_av" remote="altair" />
     <project path="frameworks/base" name="AltairROM/android_frameworks_base" remote="altair" />
     <project path="lineage-sdk" name="AltairROM/android_lineage-sdk" remote="altair" />
     <project path="packages/apps/Contacts" name="AltairROM/android_packages_apps_Contacts" remote="altair" />
