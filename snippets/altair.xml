@@ -34,6 +34,7 @@
     <remove-project name="LineageOS/android_packages_apps_Nfc" />
     <remove-project name="LineageOS/android_packages_apps_Settings" />
     <remove-project name="LineageOS/android_packages_apps_SetupWizard" />
+    <remove-project name="LineageOS/android_packages_apps_ThemePicker" />
     <remove-project name="LineageOS/android_packages_apps_Updater" />
     <remove-project name="LineageOS/android_packages_inputmethods_LatinIME" />
     <remove-project name="LineageOS/android_system_core" />
@@ -66,6 +67,7 @@
     <project path="packages/apps/Nfc" name="AltairROM/android_packages_apps_Nfc" remote="altair" />
     <project path="packages/apps/MinimalSetupWizard" name="AltairROM/android_packages_apps_MinimalSetupWizard" remote="altair" />
     <project path="packages/apps/Settings" name="AltairROM/android_packages_apps_Settings" remote="altair" />
+    <project path="packages/apps/ThemePicker" name="AltairROM/android_packages_apps_ThemePicker" remote="altair" />
     <project path="packages/inputmethods/LatinIME" name="AltairROM/android_packages_inputmethods_LatinIME" remote="altair" />
     <project path="system/core" name="AltairROM/android_system_core" remote="altair" />
     <project path="system/sepolicy" name="AltairROM/android_system_sepolicy" remote="altair" />
