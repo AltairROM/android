@@ -30,6 +30,7 @@
     <remove-project name="LineageOS/android_frameworks_libs_systemui" />
     <remove-project name="LineageOS/android_lineage-sdk" />
     <remove-project name="LineageOS/android_packages_apps_Contacts" />
+    <remove-project name="LineageOS/android_packages_apps_DeskClock" />
     <remove-project name="LineageOS/android_packages_apps_Dialer" />
     <remove-project name="LineageOS/android_packages_apps_LineageParts" />
     <remove-project name="LineageOS/android_packages_apps_Messaging" />
@@ -68,6 +69,7 @@
     <project path="lineage-sdk" name="AltairROM/android_lineage-sdk" remote="altair" />
     <project path="packages/apps/AltairSettings" name="AltairROM/android_packages_apps_AltairSettings" remote="altair" />
     <project path="packages/apps/Contacts" name="AltairROM/android_packages_apps_Contacts" remote="altair" />
+    <project path="packages/apps/DeskClock" name="AltairROM/android_packages_apps_DeskClock" remote="altair" />
     <project path="packages/apps/Dialer" name="AltairROM/android_packages_apps_Dialer" remote="altair" />
     <project path="packages/apps/Launcher3" name="AltairROM/android_packages_apps_Launcher3" remote="altair" />
     <project path="packages/apps/LineageParts" name="AltairROM/android_packages_apps_LineageParts" remote="altair" />
