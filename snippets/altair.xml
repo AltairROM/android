@@ -27,6 +27,7 @@
     <remove-project name="LineageOS/android_device_lineage_sepolicy" />
     <remove-project name="LineageOS/android_frameworks_base" />
     <remove-project name="LineageOS/android_lineage-sdk" />
+    <remove-project name="LineageOS/android_packages_apps_Backgrounds" />
     <remove-project name="LineageOS/android_packages_apps_Dialer" />
     <remove-project name="LineageOS/android_packages_apps_LineageParts" />
     <remove-project name="LineageOS/android_packages_apps_Messaging" />
@@ -60,6 +61,7 @@
     <project path="device/lineage/sepolicy" name="AltairROM/android_device_altair_sepolicy" remote="altair" />
     <project path="frameworks/base" name="AltairROM/android_frameworks_base" remote="altair" />
     <project path="lineage-sdk" name="AltairROM/android_lineage-sdk" remote="altair" />
+    <project path="packages/apps/Backgrounds" name="AltairROM/android_packages_apps_Backgrounds" remote="altair" />
     <project path="packages/apps/Dialer" name="AltairROM/android_packages_apps_Dialer" remote="altair" />
     <project path="packages/apps/LineageParts" name="AltairROM/android_packages_apps_LineageParts" remote="altair" />
     <project path="packages/apps/Messaging" name="AltairROM/android_packages_apps_Messaging" remote="altair" />
