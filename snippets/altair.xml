@@ -41,6 +41,7 @@
     <remove-project name="LineageOS/android_packages_apps_ThemePicker" />
     <remove-project name="LineageOS/android_packages_apps_Trebuchet" />
     <remove-project name="LineageOS/android_packages_apps_Updater" />
+    <remove-project name="LineageOS/android_packages_apps_WallpaperPicker2" />
     <remove-project name="LineageOS/android_packages_inputmethods_LatinIME" />
     <remove-project name="LineageOS/android_packages_overlays_Lineage" />
     <remove-project name="LineageOS/android_system_core" />
@@ -80,6 +81,7 @@
     <project path="packages/apps/MinimalSetupWizard" name="AltairROM/android_packages_apps_MinimalSetupWizard" remote="altair" />
     <project path="packages/apps/Settings" name="AltairROM/android_packages_apps_Settings" remote="altair" />
     <project path="packages/apps/ThemePicker" name="AltairROM/android_packages_apps_ThemePicker" remote="altair" />
+    <project path="packages/apps/WallpaperPicker2" name="AltairROM/android_packages_apps_WallpaperPicker2" remote="altair" />
     <project path="packages/inputmethods/LatinIME" name="AltairROM/android_packages_inputmethods_LatinIME" remote="altair" />
     <project path="packages/overlays/Altair" name="AltairROM/android_packages_overlays_Altair" remote="altair" />
     <project path="packages/overlays/Lineage" name="AltairROM/android_packages_overlays_Lineage" remote="altair" />
