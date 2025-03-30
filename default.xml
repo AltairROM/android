@@ -1020,4 +1020,6 @@
   </project>
 
   <include name="snippets/lineage.xml" />
+  <include name="snippets/remove.xml" />
+  <include name="snippets/altair.xml" />
 </manifest>
