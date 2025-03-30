@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <remote  name="altair"
+             fetch="https://github.com/AltairROM"
+             revision="refs/heads/17"
+             sync-c="true"
+             sync-j="4" />
+
+    <remote  name="altair-devices"
+             fetch="https://github.com/AltairROM-Devices"
+             revision="refs/heads/17"
+             sync-c="true"
+             sync-j="4" />
+
+    <remote  name="lineage"
+             fetch="https://github.com/LineageOS"
+             revision="refs/heads/lineage-24.0"
+             sync-c="true"
+             sync-j="4" />
+
+    <remote  name="tm"
+             fetch="https://github.com/TheMuppets"
+             revision="refs/heads/lineage-24.0"
+             sync-c="true"
+             sync-j="4" />
+
+    <project path="android" name="android" remote="altair" />
+</manifest>
