@@ -44,6 +44,7 @@
     <remove-project name="LineageOS/android_packages_modules_Wifi" />
     <remove-project name="LineageOS/android_packages_overlays_Lineage" />
     <remove-project name="LineageOS/android_packages_services_Telecomm" />
+    <remove-project name="LineageOS/android_packages_services_Telephony" />
     <remove-project name="LineageOS/android_system_core" />
     <remove-project name="LineageOS/android_system_sepolicy" />
     <remove-project name="LineageOS/android_vendor_lineage" />
@@ -82,6 +83,7 @@
     <project path="packages/modules/Bluetooth" name="AltairROM/android_packages_modules_Bluetooth" remote="altair" />
     <project path="packages/modules/Wifi" name="AltairROM/android_packages_modules_Wifi" remote="altair" />
     <project path="packages/services/Telecomm" name="AltairROM/android_packages_services_Telecomm" remote="altair" />
+    <project path="packages/services/Telephony" name="AltairROM/android_packages_services_Telephony" remote="altair" />
     <project path="system/core" name="AltairROM/android_system_core" remote="altair" />
     <project path="system/sepolicy" name="AltairROM/android_system_sepolicy" remote="altair" />
     <project path="vendor/addons" name="AltairROM/android_vendor_addons" remote="altair" />
