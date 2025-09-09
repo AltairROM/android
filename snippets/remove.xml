@@ -22,6 +22,7 @@
     <remove-project name="LineageOS/android_packages_apps_LineageParts" />
     <remove-project name="LineageOS/android_packages_apps_Messaging" />
     <remove-project name="LineageOS/android_packages_apps_Settings" />
+    <remove-project name="LineageOS/android_packages_apps_SettingsIntelligence" />
     <remove-project name="LineageOS/android_packages_apps_SetupWizard" />
     <remove-project name="LineageOS/android_packages_apps_ThemePicker" />
     <remove-project name="LineageOS/android_packages_apps_WallpaperPicker2" />
