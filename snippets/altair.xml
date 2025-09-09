@@ -40,7 +40,10 @@
         <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
     </project>
     <project path="bootable/recovery" name="android_bootable_recovery" groups="pdk" remote="altair" />
+    <project path="device/lineage/sepolicy" name="android_device_altair_sepolicy" remote="altair" />
+    <project path="frameworks/av" name="android_frameworks_av" groups="pdk,sysui-studio" remote="altair" />
     <project path="frameworks/base" name="android_frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="altair" />
+    <project path="frameworks/libs/systemui" name="android_frameworks_libs_systemui" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="altair" />
     <project path="lineage-sdk" name="android_lineage-sdk" remote="altair" />
     <project path="packages/apps/Backgrounds" name="android_packages_apps_Backgrounds" remote="altair" />
     <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" groups="pdk-fs" remote="altair" />
@@ -52,6 +55,12 @@
     <project path="packages/apps/ThemePicker" name="android_packages_apps_ThemePicker" groups="pdk-fs,sysui-studio" remote="altair" />
     <project path="packages/apps/WallpaperPicker2" name="android_packages_apps_WallpaperPicker2" groups="pdk-fs,sysui-studio" remote="altair" />
     <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" groups="pdk-fs" remote="altair" />
+    <project path="packages/modules/Bluetooth" name="android_packages_modules_Bluetooth" groups="pdk" remote="altair" />
+    <project path="packages/modules/Wifi" name="android_packages_modules_Wifi" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="altair" />
+    <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="altair" />
+    <project path="packages/services/Telephony" name="android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="altair" />
+    <project path="system/core" name="android_system_core" groups="pdk" remote="altair" />
+    <project path="system/sepolicy" name="android_system_sepolicy" groups="pdk" remote="altair" />
     <project path="vendor/addons" name="android_vendor_addons" remote="altair" />
     <project path="vendor/lineage" name="android_vendor_altair" remote="altair" />
     <project path="vendor/support" name="android_vendor_support" remote="altair" />
