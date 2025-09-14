@@ -18,6 +18,7 @@
     <remove-project name="LineageOS/android_packages_apps_Backgrounds" />
     <remove-project name="LineageOS/android_packages_apps_Dialer" />
     <remove-project name="LineageOS/android_packages_apps_DocumentsUI" />
+    <remove-project name="LineageOS/android_packages_apps_Launcher3" />
     <remove-project name="LineageOS/android_packages_apps_LineageParts" />
     <remove-project name="LineageOS/android_packages_apps_Messaging" />
     <remove-project name="LineageOS/android_packages_apps_Settings" />
