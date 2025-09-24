@@ -68,5 +68,6 @@
     <project path="system/sepolicy" name="android_system_sepolicy" groups="pdk" remote="altair" />
     <project path="vendor/addons" name="android_vendor_addons" remote="altair" />
     <project path="vendor/lineage" name="android_vendor_altair" remote="altair" />
+    <project path="vendor/qcom/opensource/audio-hal/st-hal-ar" name="android_vendor_qcom_opensource_audio-hal_st-hal-ar" groups="qcom,pakala-audio" remote="altair" />
     <project path="vendor/support" name="android_vendor_support" remote="altair" />
 </manifest>
