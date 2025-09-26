@@ -44,6 +44,7 @@
     <project path="frameworks/av" name="android_frameworks_av" groups="pdk,sysui-studio" remote="altair" />
     <project path="frameworks/base" name="android_frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="altair" />
     <project path="frameworks/libs/systemui" name="android_frameworks_libs_systemui" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="altair" />
+    <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" groups="pdk,sysui-studio" remote="altair" />
     <project path="lineage-sdk" name="android_lineage-sdk" remote="altair" />
     <project path="packages/apps/AltairSettings" name="android_packages_apps_AltairSettings" remote="altair" />
     <project path="packages/apps/Backgrounds" name="android_packages_apps_Backgrounds" remote="altair" />
