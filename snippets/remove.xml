@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+    <!-- Replaced AOSP repos -->
+    <remove-project name="platform/frameworks/opt/net/wifi" />
+
     <!-- Unused LineageOS repos -->
     <remove-project name="LineageOS/android_packages_apps_Updater" />
     <remove-project name="LineageOS/android_packages_overlays_Lineage" />
