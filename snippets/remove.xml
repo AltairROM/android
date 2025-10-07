@@ -11,6 +11,7 @@
     <!-- Replaced LineageOS repos -->
     <remove-project name="LineageOS/android" />
     <remove-project name="LineageOS/android_art" />
+    <remove-project name="LineageOS/android_bionic" />
     <remove-project name="LineageOS/android_bootable_recovery" />
     <remove-project name="LineageOS/android_build" />
     <remove-project name="LineageOS/android_build_soong" />
