@@ -39,6 +39,7 @@
         <linkfile src="root.bp" dest="Android.bp" />
         <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
     </project>
+    <project path="art" name="android_art" groups="pdk" remote="altair" />
     <project path="bootable/recovery" name="android_bootable_recovery" groups="pdk" remote="altair" />
     <project path="device/lineage/sepolicy" name="android_device_altair_sepolicy" remote="altair" />
     <project path="frameworks/av" name="android_frameworks_av" groups="pdk,sysui-studio" remote="altair" />
