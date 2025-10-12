@@ -13,6 +13,12 @@
              sync-c="true"
              sync-j="4" />
 
+    <remote  name="altair-gitlab"
+             fetch="https://gitlab.com/AltairROM"
+             revision="refs/heads/16"
+             sync-c="true"
+             sync-j="4" />
+
     <remote  name="lineage"
              fetch="https://github.com/LineageOS"
              revision="refs/heads/lineage-23.0"
@@ -73,6 +79,7 @@
     <project path="system/core" name="android_system_core" groups="pdk" remote="altair" />
     <project path="system/sepolicy" name="android_system_sepolicy" groups="pdk" remote="altair" />
     <project path="vendor/addons" name="android_vendor_addons" remote="altair" />
+    <project path="vendor/gapps" name="android_vendor_gapps" remote="altair-gitlab" />
     <project path="vendor/lineage" name="android_vendor_altair" remote="altair" />
     <project path="vendor/qcom/opensource/audio-hal/st-hal-ar" name="android_vendor_qcom_opensource_audio-hal_st-hal-ar" groups="qcom,pakala-audio" remote="altair" />
     <project path="vendor/support" name="android_vendor_support" remote="altair" />
