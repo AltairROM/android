@@ -36,6 +36,7 @@
     <remove-project name="LineageOS/android_packages_modules_Bluetooth" />
     <remove-project name="LineageOS/android_packages_modules_Connectivity" />
     <remove-project name="LineageOS/android_packages_modules_Wifi" />
+    <remove-project name="LineageOS/android_packages_resources_devicesettings" />
     <remove-project name="LineageOS/android_packages_services_Telecomm" />
     <remove-project name="LineageOS/android_packages_services_Telephony" />
     <remove-project name="LineageOS/android_system_core" />
