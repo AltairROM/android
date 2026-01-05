@@ -5,6 +5,7 @@
     <remove-project name="platform/frameworks/opt/net/wifi" />
 
     <!-- Unused LineageOS repos -->
+    <remove-project name="LineageOS/android_external_google-fonts_google-sans-flex" />
     <remove-project name="LineageOS/android_packages_apps_Updater" />
     <remove-project name="LineageOS/android_packages_overlays_Lineage" />
 
