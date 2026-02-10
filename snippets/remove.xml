@@ -3,6 +3,7 @@
 
     <!-- Replaced AOSP repos -->
     <remove-project name="platform/art" />
+    <remove-project name="platform/external/arm-optimized-routines" />
     <remove-project name="platform/frameworks/opt/net/wifi" />
 
     <!-- Unused LineageOS repos -->
