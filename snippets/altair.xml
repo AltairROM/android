@@ -49,6 +49,7 @@
     <project path="bionic" name="android_bionic" groups="pdk" remote="altair" />
     <project path="bootable/recovery" name="android_bootable_recovery" groups="pdk" remote="altair" />
     <project path="device/lineage/sepolicy" name="android_device_altair_sepolicy" remote="altair" />
+    <project path="external/arm-optimized-routines" name="android_external_arm-optimized-routines" remote="altair" />
     <project path="frameworks/av" name="android_frameworks_av" groups="pdk,sysui-studio" remote="altair" />
     <project path="frameworks/base" name="android_frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="altair" />
     <project path="frameworks/libs/systemui" name="android_frameworks_libs_systemui" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="altair" />
