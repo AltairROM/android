@@ -58,6 +58,7 @@
     <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" groups="pdk,sysui-studio" remote="altair" />
     <project path="hardware/qcom-caf/sm8150/display" name="android_hardware_qcom_display" groups="qcom" remote="altair" revision="16-caf-sm8150" />
     <project path="hardware/qcom-caf/sm8350/display" name="android_hardware_qcom_display" groups="qcom" remote="altair" revision="16-caf-sm8350" />
+    <project path="libcore" name="android_libcore" groups="pdk" remote="altair" />
     <project path="lineage-sdk" name="android_lineage-sdk" remote="altair" />
     <project path="packages/apps/AltairSettings" name="android_packages_apps_AltairSettings" remote="altair" />
     <project path="packages/apps/Backgrounds" name="android_packages_apps_Backgrounds" remote="altair" />
