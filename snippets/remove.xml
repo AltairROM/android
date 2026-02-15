@@ -5,6 +5,7 @@
     <remove-project name="platform/art" />
     <remove-project name="platform/external/arm-optimized-routines" />
     <remove-project name="platform/frameworks/opt/net/wifi" />
+    <remove-project name="platform/libcore" />
 
     <!-- Unused LineageOS repos -->
     <remove-project name="LineageOS/android_external_google-fonts_google-sans-flex" />
