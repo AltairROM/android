@@ -46,5 +46,6 @@
     <remove-project name="LineageOS/android_packages_services_Telephony" />
     <remove-project name="LineageOS/android_system_core" />
     <remove-project name="LineageOS/android_system_sepolicy" />
+    <remove-project name="LineageOS/android_system_vold" />
     <remove-project name="LineageOS/android_vendor_lineage" />
 </manifest>
