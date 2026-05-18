@@ -41,13 +41,10 @@
         <linkfile src="target" dest="build/target" />
         <linkfile src="tools" dest="build/tools" />
     </project>
-    <project path="build/soong" name="android_build_soong" groups="pdk,tradefed,sysui-studio" remote="altair">
-        <linkfile src="root.bp" dest="Android.bp" />
-        <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
-    </project>
     <project path="art" name="android_art" remote="altair" />
     <project path="bionic" name="android_bionic" groups="pdk" remote="altair" />
     <project path="bootable/recovery" name="android_bootable_recovery" groups="pdk" remote="altair" />
+    <project path="build/soong" name="android_build_soong" groups="pdk,tradefed,sysui-studio" remote="altair" />
     <project path="device/lineage/sepolicy" name="android_device_altair_sepolicy" remote="altair" />
     <project path="external/arm-optimized-routines" name="android_external_arm-optimized-routines" remote="altair" />
     <project path="frameworks/av" name="android_frameworks_av" groups="pdk,sysui-studio" remote="altair" />
