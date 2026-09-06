@@ -2,7 +2,6 @@
 <manifest>
 
     <!-- Replaced AOSP repos -->
-    <remove-project name="platform/art" />
     <remove-project name="platform/external/arm-optimized-routines" />
     <remove-project name="platform/frameworks/opt/net/wifi" />
     <remove-project name="platform/libcore" />
@@ -14,6 +13,7 @@
 
     <!-- Replaced LineageOS repos -->
     <remove-project name="LineageOS/android" />
+    <remove-project name="LineageOS/android_art" />
     <remove-project name="LineageOS/android_bionic" />
     <remove-project name="LineageOS/android_bootable_recovery" />
     <remove-project name="LineageOS/android_build" />
