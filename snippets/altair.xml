@@ -56,6 +56,7 @@
     <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" groups="pdk,sysui-studio" remote="altair" />
 
     <project path="hardware/interfaces" name="android_hardware_interfaces" groups="pdk,sysui-studio" remote="altair" />
+    <project path="hardware/qcom-caf/sm8150/display" name="android_hardware_qcom_display" groups="qcom" remote="altair" revision="17-caf-sm8150" />
 
     <project path="lineage-sdk" name="android_lineage-sdk" remote="altair" />
 
